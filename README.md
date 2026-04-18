@@ -60,6 +60,14 @@ Paper Trading active — Crypto V13 live since 2026-04-18.
 📁 **Daily P&L reports:** [`paper-trading/`](paper-trading/)  
 📈 **Equity curves:** [`paper-trading/charts/`](paper-trading/charts/)
 
+### Equity Curve (demo — real data accumulating)
+
+![Equity Curve](charts/equity_curve.png)
+
+### Drawdown
+
+![Drawdown](charts/drawdown.png)
+
 ---
 
 ## How It Works
